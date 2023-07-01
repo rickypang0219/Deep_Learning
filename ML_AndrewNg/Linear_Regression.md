@@ -60,7 +60,7 @@ $$
 
 This is the $\textbf{Batch Gradient Descent (BGD)}$ algorithm since for each $j$, we need to use a batch of training example to update $\theta_j$ until convergence. The pseudo code of BGS is the following 
 
-```
+```Python
 # Repeat until J(theta) converges
 # This is Pseudo code
 
